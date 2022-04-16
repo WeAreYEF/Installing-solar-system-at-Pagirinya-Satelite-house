@@ -4,21 +4,22 @@
 
 # 1.Powder batteries
 - 2pieces
-- 30m by 13m each
+- 30by 13each
 # 2.solar panels
 - 2pieces
-- 204m by 100m
+- 204 by 100
 - 410watts each
 - 44voltage each
 
 # 3.solar frame
-- 204m by 200m
+- 204 by 200
 - Designed with locks at every corner
 # 4.battery frame
-- 30m by 26m
+- 30 by 26
 # 5.Digital power inverter
 - 3000volt amps
 - output voltage 230v
+- comes with a watch disk,it's functionality can be monitored on the computer
 # Tools used during installation
 - Electric drill
 - Grinder
