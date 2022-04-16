@@ -26,4 +26,5 @@
 - welding generator
 - power cable
 - weldering rod
+# Step by step procedure for installation.
 
