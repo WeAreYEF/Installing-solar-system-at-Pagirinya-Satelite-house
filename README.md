@@ -20,7 +20,7 @@
 - 3000volt amps
 - output voltage 230v
 - comes with a watch disk,it's functionality can be monitored on the computer
-# Tools used during installation
+# Tools and equipments used during installation
 - Electric drill
 ![](Images/IMG_20220417_023113_592.jpg)
 - Grinder
