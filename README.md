@@ -25,6 +25,7 @@
 ![](Images/IMG_20220417_023113_592.jpg)
 - Grinder
 - welding transformer
+![](Images/IMG_20220417_023606_996.jpg)
 - welding generator
 - power cable
 - weldering rod
