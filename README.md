@@ -12,6 +12,7 @@
 - with a floating voltage of 13.38volts
 - terminal hardware torquo of 9~12
 # 2.solar panels
+![](Images/IMG_20220417_032409_401.jpg)
 - 2pieces
 - 204 by 100
 - 410watts each
