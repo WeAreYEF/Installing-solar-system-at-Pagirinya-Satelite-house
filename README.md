@@ -3,8 +3,14 @@
 
 
 # 1.Powder batteries
+![](Images/IMG_20220416_003945_107.jpg)
 - 2pieces
 - 30by 13each
+- 12volts
+- 200AH
+- charge current max of 30A
+- with a floating voltage of 13.38volts
+- terminal hardware torquo of 9~12
 # 2.solar panels
 - 2pieces
 - 204 by 100
