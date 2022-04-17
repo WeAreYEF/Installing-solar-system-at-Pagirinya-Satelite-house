@@ -15,8 +15,10 @@
 ![](Images/IMG_20220417_032409_401.jpg)
 - 2pieces
 - 204 by 100
-- 410watts each
-- 44voltage each
+- 415watts each
+- 40.70voltage each
+- for more about the solar panels,read the manual on the picture bellow.
+![](Images/IMG_20220417_034155_252.jpg)
 
 # 3.solar frame
 - 204 by 200
