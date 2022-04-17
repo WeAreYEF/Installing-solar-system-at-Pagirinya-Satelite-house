@@ -23,7 +23,7 @@
 # 4.battery frame
 - 30 by 26
 # 5.Digital power inverter
-
+![](Images/IMG_20220417_031309_164.jpg)
 - 3000volt amps
 - output voltage 230v
 - comes with a watch disk,it's functionality can be monitored on the computer
