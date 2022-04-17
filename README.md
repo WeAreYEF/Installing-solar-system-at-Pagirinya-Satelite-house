@@ -1,5 +1,5 @@
 # installing-solar-system-at-pagirinya-satelite-space
-This is an innitiative by R0g to Access to skills network to The Youth Empowerment Foundation (YEF)to overcome the over welming power problems facing the activities of the refugee Youths in pagirinya refugee settlement.
+This is an innitiative by Agency for culture and critical transformation (R0g) to Access to skills network (#ASKnet) to The Youth Empowerment Foundation (YEF)to overcome the over welming power problems facing the activities of the refugee Youths in pagirinya refugee settlement.
 
 
 # 1.Powder batteries
