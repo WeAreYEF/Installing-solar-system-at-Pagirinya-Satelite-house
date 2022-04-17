@@ -41,4 +41,5 @@
 ![](Images/IMG_20220417_024658_604.jpg)
 - weldering rod
 # Step by step procedure for installation.
+# partners
 
