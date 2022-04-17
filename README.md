@@ -14,6 +14,7 @@ For more about YEF activities, open the link
 [Activities](https://yef-uganda.org/)
 
 # components in the power kit.
+- The kit comprises of the following items:
 ## 1.Powder batteries
 ![](Images/IMG_20220416_003945_107.jpg)
 - 2pieces
