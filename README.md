@@ -43,4 +43,5 @@
 # Step by step procedure for installation.
 # partners
 ![](Images/r0g_logo.png)![](Images/asknet-logo.png)
+![](Images/yef-logo.jpeg)
 
