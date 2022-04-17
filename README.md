@@ -2,6 +2,9 @@
 This is an innitiative by Agency for culture and critical transformation (R0g) to Access to skills and knowledge network (#ASKnet) to The Youth Empowerment Foundation (YEF)to overcome the over welming power problems facing the activities of the refugee Youths in pagirinya refugee settlement.
 
 The R0g - agency (pronounced: rogue) is a Berlin based non profit dedicated to partnering with local grassroot communities, organizations and government to support open knowledge, open technology and peace building.
+
+For more on R0g open the [link](https://openculture.agency/)
+
 # Activities of The Youth Empowerment Foundation (YEF)
 - Digital literacy
 - media skills
