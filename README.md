@@ -57,5 +57,5 @@ For more about YEF activities, open the link
 ## partners and funders
 |BMZ|R0g Agency|   ASKnet    |YEF|
 |---|-------------|---------|-------| 
-|![BMZ logo](Images/IMG_20220424_025811_585.jpg)|
+|![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g Agency logo](Images/r0g_logo.png)|
 
