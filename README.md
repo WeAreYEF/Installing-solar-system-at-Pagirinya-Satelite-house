@@ -1,5 +1,5 @@
 # installing-solar-system-at-pagirinya-satelite-space
-This is an innitiative by Agency for culture and critical transformation (R0g) to Access to skills and knowledge network (#ASKnet) to The Youth Empowerment Foundation (YEF)to overcome the over welming power problems facing the activities of the refugee Youths in pagirinya refugee settlement.
+This is an innitiative by Agency for culture and critical transformation (r0g) to Access to skills and knowledge network (#ASKnet) to The Youth Empowerment Foundation (YEF)to overcome the over welming power problems facing the activities of the refugee Youths in pagirinya refugee settlement.
 
 The r0g - agency (pronounced: rogue) is a Berlin based non profit dedicated to partnering with local grassroot communities, organizations and government to support open knowledge, open technology and peace building.
 
