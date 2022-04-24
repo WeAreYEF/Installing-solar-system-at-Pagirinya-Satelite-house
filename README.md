@@ -54,7 +54,8 @@ For more about YEF activities, open the link
 ![](Images/IMG_20220417_024658_604.jpg)
 - weldering rod
 ## Step by step procedure for installation.
-## partners
-![](Images/r0g_logo.png)![](Images/asknet-logo.png)
-![](Images/yef-logo.jpeg)
+## partners and funders
+|BMZ|R0g Agency|   ASKnet    |YEF|
+|---|-------------|---------|-------| 
+
 
