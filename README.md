@@ -55,7 +55,7 @@ For more about YEF activities, open the link
 - weldering rod
 ## Step by step procedure for installation.
 ## partners and funders
-This project was funded by the federal ministry of economic cooperation and development **(BMZ)** Berlin Germany and supported by **(R0g)** Agency for development and critical transformation and Access to skills and knowledge network**(ASKnet)** implemented by the Youth Empowerment Foundation **(YEF)**. 
+This project was funded by the federal ministry of economic cooperation and development **(BMZ)** Berlin Germany and supported by **(R0g)** Agency for development and critical transformation and Access to skills and knowledge network **(ASKnet)** implemented by the Youth Empowerment Foundation **(YEF)**. 
 |BMZ|R0g Agency|   ASKnet    |YEF|
 |---|-------------|---------|-------| 
 |![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g Agency logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)|![YEF logo](Images/yef-logo.jpeg)|
