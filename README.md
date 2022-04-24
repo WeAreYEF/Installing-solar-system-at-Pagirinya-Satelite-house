@@ -1,9 +1,9 @@
 # installing-solar-system-at-pagirinya-satelite-space
 This is an innitiative by Agency for culture and critical transformation (R0g) to Access to skills and knowledge network (#ASKnet) to The Youth Empowerment Foundation (YEF)to overcome the over welming power problems facing the activities of the refugee Youths in pagirinya refugee settlement.
 
-The R0g - agency (pronounced: rogue) is a Berlin based non profit dedicated to partnering with local grassroot communities, organizations and government to support open knowledge, open technology and peace building.
+The r0g - agency (pronounced: rogue) is a Berlin based non profit dedicated to partnering with local grassroot communities, organizations and government to support open knowledge, open technology and peace building.
 
-For more on R0g open the [link](https://openculture.agency/)
+For more on r0g open the [link](https://openculture.agency/)
 
 ## Activities of The Youth Empowerment Foundation (YEF)
 - Digital literacy
@@ -56,7 +56,7 @@ For more about YEF activities, open the link
 ## Step by step procedure for installation.
 ## partners and funders
 This project was funded by the federal ministry of economic cooperation and development **(BMZ)** Berlin Germany and supported by **(R0g)** Agency for development and critical transformation and Access to skills and knowledge network **(ASKnet)** implemented by the Youth Empowerment Foundation **(YEF)**. 
-|BMZ|R0g Agency|   ASKnet    |YEF|
+|BMZ|r0g Agency|   ASKnet    |YEF|
 |---|-------------|---------|-------| 
-|![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g Agency logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)|![YEF logo](Images/yef-logo.jpeg)|
+|![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![r0g Agency logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)|![YEF logo](Images/yef-logo.jpeg)|
 |[Official website](https://www.bmz.de/en)|[official website](https://openculture.agency/)|[official website](https://github.com/ASKnet-Open-Training)|[official website](https://yef-uganda.org/)|
