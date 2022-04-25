@@ -3,14 +3,14 @@ This is an innitiative by Agency for culture and critical transformation **(r0g)
 
 The r0g - agency (pronounced: rogue) is a Berlin based non profit dedicated to partnering with local grassroot communities, organizations and government to support open knowledge, open technology and peace building.
 
-For more on r0g open the [link](https://openculture.agency/)
+For more on **r0g** open the [link](https://openculture.agency/)
 
-## Activities of The Youth Empowerment Foundation (YEF)
+## Activities of The Youth Empowerment Foundation **(YEF)**
 - Digital literacy
 - media skills
 - Training skills (hardware and repair)
 - podcasts
-For more about YEF activities, open the link
+For more about **YEF** activities, open the link
 [Activities](https://yef-uganda.org/)
 
 # components in the power kit.
